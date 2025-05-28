@@ -60,7 +60,7 @@ wizard-warrior-dragon/
 │
 ├── wizard_warrior_dragon.py  # Main Streamlit game script
 ├── README.md                 # Project overview and setup guide
-└── preview.png               # Optional screenshot (add your own)
+
 ```
 
 ---
