@@ -49,7 +49,7 @@ streamlit run wizard_warrior_dragon.py
 
 ## 📸 Link to Game
 
-![WizardWarriorDragon](https://wizardwarriordragonapp.streamlit.app/)  
+[WizardWarriorDragon](https://wizardwarriordragonapp.streamlit.app/)  
 
 ---
 
